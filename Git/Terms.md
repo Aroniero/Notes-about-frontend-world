@@ -12,3 +12,4 @@ Wskaźnik na tip (commit) - nazwa referencyjna, nazwa jest jednocześnie nazwą 
 
 commit będący źródłem aktualnej zawartości working copy
 Alias: @
+
