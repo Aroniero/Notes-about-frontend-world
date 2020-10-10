@@ -34,7 +34,7 @@ user1.sayName();
 | ---- | ------------------------------------------------------------ |
 |      | name : "Phil"<br />score: 5<br />newUser = {  <br />          name : "Phil"<br />          score: 5<br />          _ _ proto _ _:               it is a bond with userFunctions <------<br />} |
 
-​	user1 : {  <br />          name : "Phil"<br />          score: 5<br />          <span style="color: #feb236">_ _ proto _ _:</span>  .......      
+​	user1 : {  <br />          name : "Phil"<br />          score: 5<br />           <span style="color: #feb236">_ _ proto _ _:</span>  .......      
 ​	}								<--------------------- now user1 is object which was returned from execution context 
 
 4) user1.sayName()											
